@@ -4,5 +4,4 @@ remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 search_enabled: true
 
-# This tells the theme to load styles inside your specific repository folder
-baseurl: "/CyberSec"
+baseurl: "/cybersec"
