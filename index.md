@@ -38,15 +38,20 @@ I am an undergraduate student at Lahore Garrison University driven by the philos
 
 ## 🛠️ Featured Projects
 
-### [ChainSeal — Decentralized Academic Credential Verifier](https://github.com/ahmad12583719) (May 2026)[cite: 1]
+### [ChainSeal — Decentralized Academic Credential Verifier](https://github.com/ahmad12583719/ChainSeal.git) (May 2026)[cite: 1]
 *   **Description:** A full-stack decentralized application (dApp) that allows academic institutions to issue tamper-proof student credentials on the Ethereum blockchain[cite: 1].
 *   **Key Features:** Smart contracts, MetaMask wallet-gated admin dashboard, duplicate PDF detection, IPFS document storage, and QR-code shareable digital certificates[cite: 1].
 *   **Tech Stack:** Solidity, Hardhat, Ganache, ethers.js, React, Vite, IPFS, MetaMask[cite: 1].
 
-### [NetForensics — Network Monitoring Tool](https://github.com/ahmad12583719) (Apr 2026)[cite: 1]
-*   **Description:** A professional-grade network monitoring tool designed to bridge the gap between real-time packet analysis and legal documentation[cite: 1].
-*   **Key Features:** Forensic Evidence Engine generating SHA-256 integrity-hashed reports, DNS Tunneling and TCP scan anomaly detection, and a hybrid CLI/Streamlit dashboard[cite: 1].
-*   **Tech Stack:** Python, Scapy, Streamlit[cite: 1].
+### [MediMart — Full-Stack Pharmacy Application](https://github.com/ahmad12583719/MediMart.git)[cite: 1]
+*   **Description:** A secure, full-stack enterprise pharmacy management web application designed to safely handle inventory control, role-based authentication, and transaction logging[cite: 1].
+*   **Key Features:** Secure session handling, audit trails for stock management, transaction integrity controls, and dynamic database queries.
+*   **Tech Stack:** MongoDB, Express.js, React.js, Node.js (MERN), MSSQL[cite: 1].
+
+### [Spam Shield — ML Spam Detection System](https://github.com/ahmad12583719/Spam_Detection.git)[cite: 1]
+*   **Description:** A machine learning-powered application designed to process and analyze custom communication datasets, automatically flagging anomalies and malicious spam attempts[cite: 1].
+*   **Key Features:** Data pipeline for custom dataset processing, implementation of classification algorithms (including Random Forest), and automation of digital data tracking[cite: 1].
+*   **Tech Stack:** Python, Pandas, Scikit-Learn.
 
 ---
 
