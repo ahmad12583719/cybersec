@@ -53,6 +53,7 @@ I am an undergraduate student at Lahore Garrison University driven by the philos
 *   **Key Features:** Data pipeline for custom dataset processing, implementation of classification algorithms (including Random Forest), and automation of digital data tracking[cite: 1].
 *   **Tech Stack:** Python, Pandas, Scikit-Learn.
 
+
 ---
 
 ## 📜 Certifications
