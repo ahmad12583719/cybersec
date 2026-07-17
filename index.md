@@ -6,16 +6,16 @@ permalink: /
 ---
 
 # 🛡️ Muhammad Ahmad Raza
-### Technical Co-Lead @ LGU ACM Student Chapter | Cybersecurity & Digital Forensics Student
+### General Secretary @ LGU ACM Student Chapter | Cybersecurity & Digital Forensics Student
 
 Welcome to my professional portfolio. I am an undergraduate student pursuing a BS in Digital Forensics and Cyber Security at Lahore Garrison University, passionate about network monitoring, secure application development, and decentralized security architecture.
 
 ---
 
 ## ⚡ Quick Links
-*   **LinkedIn:** [Your LinkedIn Profile Link Here]
-*   **GitHub:** [Your GitHub Profile Link Here]
-*   **Email:** [Your Email Address Here]
+*   **LinkedIn:** [https://www.linkedin.com/in/muhammad-ahmad-raza-7038143a0/]
+*   **GitHub:** [https://github.com/ahmad12583719]
+*   **Email:** [m.ahmadraza1258@gmail.com]
 
 ## 🛠️ Core Focus Areas
 *   **Digital Forensics:** Hands-on experience with artifact analysis, memory forensics, and automated parsing tools.
